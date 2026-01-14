@@ -1,0 +1,11 @@
+{
+  "extensions": [
+    {
+      "name": "Hello World",
+      "author": "Community",
+      "version": "1.0.0",
+      "description": "Simple example extension.",
+      "url": "https://raw.githubusercontent.com/Litas-dev/Extensions-Community/main/hello-world/manifest.json"
+    }
+  ]
+}
